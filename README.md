@@ -29,7 +29,7 @@ This is a **standalone desktop application** built using **MATLAB App Designer**
 
 ## 🧠 App Description
 
-This COVID-19 data visualization tool was developed for a course project to apply object-oriented programming, data processing, and UI design to a real-world dataset. The app uses data provided by the **Johns Hopkins University Coronavirus Resource Center**, covering cases and deaths globally.
+This COVID-19 data visualization tool was developed for a course project (Mastering Programming with MATLAB) to apply object-oriented programming, data processing, and UI design to a real-world dataset. The app uses data provided by the **Johns Hopkins University Coronavirus Resource Center**, covering cases and deaths globally.
 
 ---
 
