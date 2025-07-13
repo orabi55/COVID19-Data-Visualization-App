@@ -63,7 +63,7 @@ This COVID-19 data visualization tool was developed for a course project to appl
 
 Here are some screenshots of the COVID-19 Data Visualization App in action:
 
-### Global Daily Cases and Deaths (with 7-day Moving Average)
+### Global Daily Cases and Deaths
 ![Global Cases and Deaths](TestCases.png/GlobalBoth.png)
 
 ### Egypt Daily Cases and Deaths (with 10-day Moving Average)
@@ -72,7 +72,7 @@ Here are some screenshots of the COVID-19 Data Visualization App in action:
 ### USA Cumulative Cases and Deaths 
 ![Global Cases and Deaths](TestCases.png/US_Both.png)
 
-### USA Cumulative Cases and Deaths (with 7-day Moving Average) 
+### New York Cumulative Cases and Deaths (with 7-day Moving Average) 
 ![Global Cases and Deaths](TestCases.png/New_York_Daily_Both_Averaged.png)
 
 
