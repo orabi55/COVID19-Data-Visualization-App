@@ -67,7 +67,7 @@ Here are some screenshots of the COVID-19 Data Visualization App in action:
 ![Global Cases and Deaths](TestCases.png/GlobalBoth.png)
 
 ### Egypt Daily Cases and Deaths (with 10-day Moving Average)
-![Global Cases and Deaths](TestCases.png/Egypt_Daily _Both_Averaged.png)
+![Global Cases and Deaths](TestCases.png/Egypt_Daily_Both_Averaged.png)
 
 ### USA Cumulative Cases and Deaths 
 ![Global Cases and Deaths](TestCases.png/US_Both.png)
