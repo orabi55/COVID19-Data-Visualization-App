@@ -64,7 +64,7 @@ This COVID-19 data visualization tool was developed for a course project to appl
 Here are some screenshots of the COVID-19 Data Visualization App in action:
 
 ### Global Daily Cases and Deaths (with 7-day Moving Average)
-![Global Cases and Deaths](TestCases.png/Global Cases.png)
+![Global Cases and Deaths](TestCases.png/GlobalCases.png)
 
 
 
